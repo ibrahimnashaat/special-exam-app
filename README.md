@@ -16,11 +16,11 @@
 </div>
 
 
-##summary
+## summary
 
 Welcome to special-exam-app, the literacy learning app designed to empower individuals who cannot read or write with easy, simple lessons. This app provides an accessible platform for learners of all ages to acquire basic literacy skills, opening doors to a world of knowledge and opportunities. This README file provides an overview of the special-exam-app's features and functionality and how to get started.
 
-##Key Features
+## Key Features
 
 ### 1. Easy and simple lessons
 
@@ -46,7 +46,7 @@ Welcome to special-exam-app, the literacy learning app designed to empower indiv
 
 The trainee can obtain a certificate after completing each course and also after the final exam.
 
-##Feedback and support
+## Feedback and support
 
 We welcome your feedback and are committed to enhancing the special-exam-app to better serve our learners. If you encounter any issues, have questions, or would like to make suggestions for improvements, please contact our support team at ibrahim.nashat.2023@gmail.com
 
