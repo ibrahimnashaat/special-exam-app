@@ -67,7 +67,7 @@ class Login extends StatelessWidget {
                         print(error.toString());
 
               });
-              
+
                           }
             else if (state is LoginUsingGoogleSuccessStates){
 
@@ -319,3 +319,6 @@ class Login extends StatelessWidget {
 
 
 }
+
+
+
